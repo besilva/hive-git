@@ -1,3 +1,4 @@
 # hive-git
-Hive to teach Academy students about  Git!
+
+Hive to teach Academy students about  Git Dummy example
 
